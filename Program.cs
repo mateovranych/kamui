@@ -1,5 +1,6 @@
 using kamui.Context;
 using Microsoft.EntityFrameworkCore;
+using System.Reflection;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -13,8 +14,10 @@ builder.Services.AddDbContext<appDbContext>(options => options.UseMySql(connecti
 // Add services to the container.
 
 builder.Services.AddControllers();
-
 builder.Services.AddSwaggerGen();
+
+builder.Services.AddAutoMapper(typeof(Program).Assembly);
+
 
 var app = builder.Build();
 
@@ -23,7 +26,7 @@ if (app.Environment.IsDevelopment())
 	app.UseSwagger();
 	app.UseSwaggerUI(c =>
 
-	c.SwaggerEndpoint("swagger/v1/swagger.json", "My API V1"));
+	c.SwaggerEndpoint("/swagger/v1/swagger.json", "My API V1"));
 }
 
 

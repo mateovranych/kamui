@@ -1,12 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "WkIPqIIq0PxgpKQWifcZsqaB60zdk2+exGDgx9InuDmIAO08p3903K5rVtONRaLnKsx8Gmt3NQB7iQx9eAfmCA==",
+  "dgSpecHash": "ptYJENvlr0nBVP9hmvpGJ+1KxdyxpV5Q+qn8RRoxmDMEhM1UU8BUZzKllHWSK1UgUVzw6NP+6ikf5lik3uLdpQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\Mateo\\source\\repos\\kamui\\kamui.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\Mateo\\.nuget\\packages\\automapper\\11.0.0\\automapper.11.0.0.nupkg.sha512",
+    "C:\\Users\\Mateo\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\11.0.0\\automapper.extensions.microsoft.dependencyinjection.11.0.0.nupkg.sha512",
     "C:\\Users\\Mateo\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Mateo\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\6.0.10\\microsoft.aspnetcore.authentication.jwtbearer.6.0.10.nupkg.sha512",
-    "C:\\Users\\Mateo\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
+    "C:\\Users\\Mateo\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\Mateo\\.nuget\\packages\\microsoft.entityframeworkcore\\6.0.10\\microsoft.entityframeworkcore.6.0.10.nupkg.sha512",
     "C:\\Users\\Mateo\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\6.0.10\\microsoft.entityframeworkcore.abstractions.6.0.10.nupkg.sha512",
     "C:\\Users\\Mateo\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\6.0.10\\microsoft.entityframeworkcore.analyzers.6.0.10.nupkg.sha512",

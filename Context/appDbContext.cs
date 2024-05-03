@@ -11,7 +11,7 @@ namespace kamui.Context
 		}
 
 
-		DbSet<User> Usuarios { get; set; }
+		
 
 	}
 }

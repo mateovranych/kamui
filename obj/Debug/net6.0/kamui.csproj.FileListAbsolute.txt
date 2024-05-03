@@ -46,3 +46,5 @@ C:\Users\Mateo\source\repos\kamui\obj\Debug\net6.0\refint\kamui.dll
 C:\Users\Mateo\source\repos\kamui\obj\Debug\net6.0\kamui.pdb
 C:\Users\Mateo\source\repos\kamui\obj\Debug\net6.0\kamui.genruntimeconfig.cache
 C:\Users\Mateo\source\repos\kamui\obj\Debug\net6.0\ref\kamui.dll
+C:\Users\Mateo\source\repos\kamui\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\Mateo\source\repos\kamui\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
